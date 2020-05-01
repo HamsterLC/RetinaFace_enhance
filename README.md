@@ -32,6 +32,7 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 
 # Dependencies
 * numpy
+* opencv
 * onnxruntime(pip install onnxruntime)
 
 # Run Demo
