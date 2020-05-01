@@ -28,6 +28,7 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 | Smart_V4 | 3.89G | 2.26M | 93.9% | 92.9% | 83.7% |
 | ASFD_D1[4] | 4.27G | 3.9M | 93.3% | 91.7% | 83.6% |
 * Use 640x640 as input   The other use origin
+* 因为Flops不等于Latency 需要Flops 参数量 和 Performance综合考虑
 
 # Reference
 1. [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381) 
