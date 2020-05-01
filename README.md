@@ -10,9 +10,9 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Smart_V0 | 0.27B | 0.10M | 84.9% | 81.4% | 64.0% |
 | |
-| Smart_V1* | 0.67B | 0.27M | 89.8% | 84.9% | 53.8% |
-| Ultra_1M_RBF*[2] |   | ~0.3M | 85.5% | 82.2% | 57.9% |
-| libfacedetection_v2*[3] |  | 0.8M | 77.3% | 71.8% | 48.5% |
+| Smart_V1(640) | 0.67B | 0.27M | 89.8% | 84.9% | 53.8% |
+| Ultra_1M_RBF(640)[2] |   | ~0.3M | 85.5% | 82.2% | 57.9% |
+| libfacedetection_v2(640)[3] |  | 0.8M | 77.3% | 71.8% | 48.5% |
 | |
 | Smart_V1 | 0.67B | 0.27M | 91.0% | 88.8% | 75.4% |
 | ASFD_D0[4] | 0.73B | 0.62M | 90.1% | 87.5% | 74.4% |
@@ -27,7 +27,7 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 | |
 | Smart_V4 | 3.89B | 2.26M | 93.9% | 92.9% | 83.7% |
 | ASFD_D1[4] | 4.27B | 3.9M | 93.3% | 91.7% | 83.6% |
-* [*] Use VGA 640*480 or scaling by the maximum side length of 640640x640 as input. 
+* (640) Use VGA 640*480 or scaling by the maximum side length of 640640x640 as input. 
 * The other evaluation use Single Inference on the Original Scale.
 
 # Dependencies
