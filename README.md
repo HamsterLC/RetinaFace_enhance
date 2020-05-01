@@ -3,7 +3,7 @@ Smart_V0-V4 are lightweight face detection models designed for a project in Smar
 All models use MobileNetV2[1] as backbone and relu as activation function(with out deformable convolution).
 
 # About SmartSens
-Smartsens technology is a high-performance CMOS image sensor chip design company founded in 2011 with a global leading R & D team in Shanghai, Beijing and other regions of China.
+SmartSens Technology Co., Ltd. is a high-performance CMOS image sensing (CIS) chip design company. The company, founded in 2011, is headquartered in Shanghai and has both research centers and sales offices in various cities around the world, including Beijing, Shenzhen, Hangzhou, Hong Kong, Hsinchu and San Jose, California.
 
 # Comparison with other lightweight face detection models
 | Style | MAdds | Parameters | easy | medium | hard |
