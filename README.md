@@ -1,4 +1,4 @@
-# Face-Detection-Lite
+# Face-Detection-Lite(Under Construction)
 Here are some lightweight face detection model designed for a project in SmartSens.
 We take MobileNetV2[1] as backbone.
 
@@ -30,12 +30,12 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 * Use 640x640 as input   The other use origin
 
 # Reference
-1. [MobileNetV2](https://arxiv.org/abs/1801.04381)
-2. [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
-3. [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
-4. [ASFD](https://arxiv.org/abs/2003.11228)
-5. [CenterFace](https://github.com/Star-Clouds/CenterFace)
-6. [RetinaFace(insightface)](https://github.com/deepinsight/insightface)
-7. [RetinaFace(biubug6)](https://github.com/biubug6/Pytorch_Retinaface)
-8. [RetinaFace(lbin](https://github.com/lbin/Retinaface_Mobilenet_Pytorch)
+1. [MobileNetV2](https://arxiv.org/abs/1801.04381) MobileNetV2: Inverted Residuals and Linear Bottlenecks
+2. [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB) https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB
+3. [libfacedetection](https://github.com/ShiqiYu/libfacedetection) https://github.com/ShiqiYu/libfacedetection
+4. [ASFD](https://arxiv.org/abs/2003.11228) ASFD: Automatic and Scalable Face Detector
+5. [CenterFace](https://github.com/Star-Clouds/CenterFace) https://github.com/Star-Clouds/CenterFace
+6. [RetinaFace(insightface)](https://github.com/deepinsight/insightface) https://github.com/deepinsight/insightface
+7. [RetinaFace(biubug6)](https://github.com/biubug6/Pytorch_Retinaface) https://github.com/biubug6/Pytorch_Retinaface
+8. [RetinaFace(lbin)](https://github.com/lbin/Retinaface_Mobilenet_Pytorch) https://github.com/lbin/Retinaface_Mobilenet_Pytorch
 
