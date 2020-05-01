@@ -27,8 +27,8 @@ SmartSens Technology Co., Ltd. is a high-performance CMOS image sensing (CIS) ch
 | |
 | Smart_V4 | 3.89B | 2.26M | 93.9% | 92.9% | 83.7% |
 | ASFD_D1[4] | 4.27B | 3.9M | 93.3% | 91.7% | 83.6% |
-* (640) Use VGA 640*480 or scaling by the maximum side length of 640640x640 as input. 
-* The other evaluation use Single Inference on the Original Scale.
+* (640) uses VGA 640*480 or scaling by the maximum side length of 640 as input. 
+* The other evaluations use Single Inference on the Original Scale.
 
 # Dependencies
 * numpy
