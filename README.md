@@ -1,6 +1,6 @@
 # Face-Detection-Lite(Under Construction)
-Here are some lightweight face detection model designed for a project in SmartSens.
-All models take MobileNetV2[1] as backbone and with out deformable convolution.
+Smart_V1-V4 are lightweight face detection models designed for a project in SmartSens.
+All models use MobileNetV2[1] as backbone and relu as activation function(with out deformable convolution).
 
 # About SmartSens
 Smartsens technology is a high-performance CMOS image sensor chip design company founded in 2011 with a global leading R & D team in Shanghai, Beijing and other regions of China.
