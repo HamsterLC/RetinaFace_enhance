@@ -1,6 +1,6 @@
 # Face-Detection-Lite(Under Construction)
 Here are some lightweight face detection model designed for a project in SmartSens.
-We take MobileNetV2[1] as backbone.
+All models take MobileNetV2[1] as backbone and with out deformable convolution.
 
 # About SmartSens
 Smartsens technology is a high-performance CMOS image sensor chip design company founded in 2011 with a global leading R & D team in Shanghai, Beijing and other regions of China.
@@ -27,8 +27,15 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 | |
 | Smart_V4 | 3.89G | 2.26M | 93.9% | 92.9% | 83.7% |
 | ASFD_D1[4] | 4.27G | 3.9M | 93.3% | 91.7% | 83.6% |
-* Use 640x640 as input   The other use origin
-* 因为Flops不等于Latency 需要Flops 参数量 和 Performance综合考虑
+* *Use VGA 640*480 or scaling by the maximum side length of 640640x640 as input. 
+* The other evaluation use Single Inference on the Original Scale.
+
+# Dependencies
+* numpy
+* onnxruntime(pip install onnxruntime)
+
+# Run Demo
+python test_image.py
 
 # Reference
 1. [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381) 
