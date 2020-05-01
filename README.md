@@ -25,9 +25,9 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 | Smart_V3 | 1.17B | 0.59M | 93.3% | 91.5% | 80.5% |
 | RetinaFace_libin(DCN)[8] |  | 0.65M | 92.7% | 90.9% | 80.2% |
 | |
-| Smart_V4 | 3.89G | 2.26M | 93.9% | 92.9% | 83.7% |
-| ASFD_D1[4] | 4.27G | 3.9M | 93.3% | 91.7% | 83.6% |
-* *Use VGA 640*480 or scaling by the maximum side length of 640640x640 as input. 
+| Smart_V4 | 3.89B | 2.26M | 93.9% | 92.9% | 83.7% |
+| ASFD_D1[4] | 4.27B | 3.9M | 93.3% | 91.7% | 83.6% |
+* [*] Use VGA 640*480 or scaling by the maximum side length of 640640x640 as input. 
 * The other evaluation use Single Inference on the Original Scale.
 
 # Dependencies
