@@ -1,5 +1,5 @@
 # Face-Detection-Lite(Under Construction)
-Smart_V1-V4 are lightweight face detection models designed for a project in SmartSens.
+Smart_V0-V4 are lightweight face detection models designed for a project in SmartSens.
 All models use MobileNetV2[1] as backbone and relu as activation function(with out deformable convolution).
 
 # About SmartSens
