@@ -10,5 +10,5 @@ Smartsens technology is a high-performance CMOS image sensor chip design company
 |:-|:-:|:-:|:-:|:-:|:-:|
 | Smart_V0 | 0.27B | 0.10M | 84.9% | 81.4% | 64.0% |
 | Smart_V1* | 0.67B | 0.27M | 89.8% | 84.9% | 53.8% |
-|:-|:-:|:-:|:-:|:-:|:-:|
+
 | Smart_V1 | 0.67B | 0.27M | 91.0% | 88.8% | 75.4% |
